@@ -111,6 +111,7 @@
         gpd-p2-max = import ./gpd/p2-max;
         gpd-pocket-3 = import ./gpd/pocket-3;
         gpd-win-2 = import ./gpd/win-2;
+        gpd-win-4-2024 = import ./gpd/win-4/2024;
         gpd-win-max-2-2023 = import ./gpd/win-max-2/2023;
         gpd-win-mini-2024 = import ./gpd/win-mini/2024;
         hp-elitebook-2560p = import ./hp/elitebook/2560p;
